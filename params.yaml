@@ -1,0 +1,12 @@
+GitHub:
+  Url: https://github.com
+  Name: GitHub
+  Orgs: takeyan-icp
+  RepoPattern: .*
+  OAuth:
+    Token: 2b32a1cae989c03fc0903552df1371d4342bbacc 
+    User: takeyan
+  App:
+    Id: 7d1efa645bb6b5850e2b
+    Secret: d6eddf41abc877987497f749d087c02dcbc50353
+  Admins: takeyan
